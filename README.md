@@ -1,4 +1,4 @@
-# Employee Movement Report (Google Sheets → Slack)
+# Employee Movement Report Automation (Google Sheets → Slack)
 
 *A Google Apps Script that helps HR and IT teams automate employee onboarding and offboarding notifications from Google Sheets to Slack.*
 
@@ -12,6 +12,12 @@ This script automatically:
 - Simplifies process tracking for HR and IT teams.
 > *Note:* The script includes generic fields for disabling access to various internal systems (e.g., version control, issue tracking, communication tools).  
 > Specific tool names have been anonymized for security reasons.
+
+### Key Features
+- ✅ Automatic Slack notifications for HR & IT changes  
+- ✅ Google Sheets integration via Apps Script  
+- ✅ Row locking to prevent accidental edits  
+- ✅ Easy to adapt for different teams and workflows  
 
 ## Quick Setup (EN)
 1. In **Apps Script → Project Settings → Script properties**, add:
@@ -29,6 +35,12 @@ Bu script, HR ve IT ekiplerinin iş yükünü azaltmak için:
 - HR ve IT ekipleri için süreç takibini kolaylaştırır.
 > *Not:* Script, kurum içi sistemlere (ör. sürüm kontrolü, görev yönetimi, iletişim araçları vb.) erişimi kapatmaya yönelik genel alanlar içerir.  
 > Güvenlik nedeniyle belirli araç isimleri anonimleştirilmiştir.
+
+### Temel Özellikler
+- ✅ HR ve IT değişikliklerinde otomatik Slack bildirimi  
+- ✅ Google Sheets entegrasyonu (Apps Script ile)  
+- ✅ Yanlışlıkla düzenlemeleri önlemek için satır kilitleme  
+- ✅ Farklı ekip ve süreçlere kolayca uyarlanabilir  
 
 ## Hızlı Kurulum (TR)
 1. **Apps Script → Project Settings → Script properties** bölümüne ekleyin:
