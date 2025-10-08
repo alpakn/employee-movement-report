@@ -10,6 +10,8 @@ This script automatically:
 - Sends formatted Slack messages when rows are approved or marked as complete.
 - Locks processed rows to prevent accidental edits.
 - Simplifies process tracking for HR and IT teams.
+> *Note:* The script includes generic fields for disabling access to various internal systems (e.g., version control, issue tracking, communication tools).  
+> Specific tool names have been anonymized for security reasons.
 
 ## Quick Setup (EN)
 1. In **Apps Script → Project Settings → Script properties**, add:
@@ -25,6 +27,8 @@ Bu script, HR ve IT ekiplerinin iş yükünü azaltmak için:
 - Satır onaylandığında Slack’e biçimlendirilmiş bildirim gönderir.
 - İşlenen satırları kilitleyerek yanlışlıkla değişiklikleri önler.
 - HR ve IT ekipleri için süreç takibini kolaylaştırır.
+> *Not:* Script, kurum içi sistemlere (ör. sürüm kontrolü, görev yönetimi, iletişim araçları vb.) erişimi kapatmaya yönelik genel alanlar içerir.  
+> Güvenlik nedeniyle belirli araç isimleri anonimleştirilmiştir.
 
 ## Hızlı Kurulum (TR)
 1. **Apps Script → Project Settings → Script properties** bölümüne ekleyin:
